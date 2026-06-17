@@ -1,0 +1,4 @@
+scripts/graph-token-cache.json
+scripts/pass-assignments.csv
+scripts/test-assignments.csv
+*.log
